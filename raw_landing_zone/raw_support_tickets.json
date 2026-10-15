@@ -1,0 +1,2050 @@
+[
+  {
+    "ticket_id": "TCK-9000",
+    "user_id": "USR-1001",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Low",
+    "created_at": "2026-01-29T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9001",
+    "user_id": "USR-1001",
+    "ticket_text": "System has been completely down during market open. Unacceptable outage!",
+    "priority": "Low",
+    "created_at": "2026-01-13T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9002",
+    "user_id": "USR-1003",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Medium",
+    "created_at": "2026-07-30T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9003",
+    "user_id": "USR-1003",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "High",
+    "created_at": "2026-08-26T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9004",
+    "user_id": "USR-1005",
+    "ticket_text": "System has been completely down during market open. Unacceptable outage!",
+    "priority": "High",
+    "created_at": "2026-05-13T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9005",
+    "user_id": "USR-1006",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Low",
+    "created_at": "2026-06-11T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9006",
+    "user_id": "USR-1008",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "Medium",
+    "created_at": "2026-05-04T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9007",
+    "user_id": "USR-1012",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "Urgent",
+    "created_at": "2026-07-29T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9008",
+    "user_id": "USR-1014",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "Urgent",
+    "created_at": "2025-12-08T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9009",
+    "user_id": "USR-1015",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "High",
+    "created_at": "2026-04-05T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9010",
+    "user_id": "USR-1017",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "Medium",
+    "created_at": "2026-04-04T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9011",
+    "user_id": "USR-1017",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Medium",
+    "created_at": "2026-03-26T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9012",
+    "user_id": "USR-1019",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Urgent",
+    "created_at": "2026-04-29T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9013",
+    "user_id": "USR-1019",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "Medium",
+    "created_at": "2026-06-11T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9014",
+    "user_id": "USR-1019",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "Medium",
+    "created_at": "2026-06-05T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9015",
+    "user_id": "USR-1020",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "High",
+    "created_at": "2026-08-15T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9016",
+    "user_id": "USR-1020",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "Low",
+    "created_at": "2026-08-23T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9017",
+    "user_id": "USR-1023",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "Medium",
+    "created_at": "2025-11-19T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9018",
+    "user_id": "USR-1025",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Low",
+    "created_at": "2025-12-14T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9019",
+    "user_id": "USR-1025",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "High",
+    "created_at": "2026-01-05T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9020",
+    "user_id": "USR-1026",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "Medium",
+    "created_at": "2026-03-16T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9021",
+    "user_id": "USR-1027",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Medium",
+    "created_at": "2026-06-13T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9022",
+    "user_id": "USR-1027",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "Urgent",
+    "created_at": "2026-07-04T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9023",
+    "user_id": "USR-1029",
+    "ticket_text": "Can we upgrade our tier? We are scaling our analyst team next month.",
+    "priority": "Medium",
+    "created_at": "2026-07-15T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9024",
+    "user_id": "USR-1030",
+    "ticket_text": "System has been completely down during market open. Unacceptable outage!",
+    "priority": "Urgent",
+    "created_at": "2026-02-15T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9025",
+    "user_id": "USR-1030",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "Medium",
+    "created_at": "2026-04-07T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9026",
+    "user_id": "USR-1031",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "Low",
+    "created_at": "2026-07-26T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9027",
+    "user_id": "USR-1032",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "High",
+    "created_at": "2026-04-05T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9028",
+    "user_id": "USR-1033",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "High",
+    "created_at": "2026-02-23T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9029",
+    "user_id": "USR-1034",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Medium",
+    "created_at": "2025-11-25T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9030",
+    "user_id": "USR-1035",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Low",
+    "created_at": "2026-01-09T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9031",
+    "user_id": "USR-1035",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "High",
+    "created_at": "2026-01-16T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9032",
+    "user_id": "USR-1037",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Urgent",
+    "created_at": "2026-05-08T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9033",
+    "user_id": "USR-1039",
+    "ticket_text": "System has been completely down during market open. Unacceptable outage!",
+    "priority": "Low",
+    "created_at": "2026-02-01T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9034",
+    "user_id": "USR-1039",
+    "ticket_text": "Can we upgrade our tier? We are scaling our analyst team next month.",
+    "priority": "Low",
+    "created_at": "2026-02-10T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9035",
+    "user_id": "USR-1042",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Medium",
+    "created_at": "2026-09-23T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9036",
+    "user_id": "USR-1042",
+    "ticket_text": "Can we upgrade our tier? We are scaling our analyst team next month.",
+    "priority": "High",
+    "created_at": "2026-08-04T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9037",
+    "user_id": "USR-1043",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "Medium",
+    "created_at": "2026-04-19T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9038",
+    "user_id": "USR-1043",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "High",
+    "created_at": "2026-04-17T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9039",
+    "user_id": "USR-1045",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "High",
+    "created_at": "2026-01-20T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9040",
+    "user_id": "USR-1049",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Low",
+    "created_at": "2026-09-02T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9041",
+    "user_id": "USR-1050",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "Medium",
+    "created_at": "2026-04-12T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9042",
+    "user_id": "USR-1051",
+    "ticket_text": "System has been completely down during market open. Unacceptable outage!",
+    "priority": "High",
+    "created_at": "2026-07-19T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9043",
+    "user_id": "USR-1052",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Medium",
+    "created_at": "2026-03-09T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9044",
+    "user_id": "USR-1056",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Low",
+    "created_at": "2026-06-29T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9045",
+    "user_id": "USR-1056",
+    "ticket_text": "Can we upgrade our tier? We are scaling our analyst team next month.",
+    "priority": "Urgent",
+    "created_at": "2026-05-19T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9046",
+    "user_id": "USR-1057",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "High",
+    "created_at": "2026-09-06T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9047",
+    "user_id": "USR-1058",
+    "ticket_text": "Can we upgrade our tier? We are scaling our analyst team next month.",
+    "priority": "High",
+    "created_at": "2026-08-23T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9048",
+    "user_id": "USR-1061",
+    "ticket_text": "System has been completely down during market open. Unacceptable outage!",
+    "priority": "Medium",
+    "created_at": "2026-02-04T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9049",
+    "user_id": "USR-1063",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "Medium",
+    "created_at": "2026-05-06T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9050",
+    "user_id": "USR-1063",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "Low",
+    "created_at": "2026-05-19T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9051",
+    "user_id": "USR-1064",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "Low",
+    "created_at": "2026-05-06T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9052",
+    "user_id": "USR-1066",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "High",
+    "created_at": "2026-04-02T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9053",
+    "user_id": "USR-1066",
+    "ticket_text": "System has been completely down during market open. Unacceptable outage!",
+    "priority": "Low",
+    "created_at": "2026-03-10T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9054",
+    "user_id": "USR-1067",
+    "ticket_text": "Can we upgrade our tier? We are scaling our analyst team next month.",
+    "priority": "Medium",
+    "created_at": "2026-03-23T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9055",
+    "user_id": "USR-1067",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Low",
+    "created_at": "2026-03-14T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9056",
+    "user_id": "USR-1068",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Low",
+    "created_at": "2026-03-28T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9057",
+    "user_id": "USR-1069",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "Medium",
+    "created_at": "2026-04-23T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9058",
+    "user_id": "USR-1070",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Low",
+    "created_at": "2026-04-02T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9059",
+    "user_id": "USR-1070",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "High",
+    "created_at": "2026-03-31T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9060",
+    "user_id": "USR-1071",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Urgent",
+    "created_at": "2026-08-01T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9061",
+    "user_id": "USR-1072",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Urgent",
+    "created_at": "2026-02-13T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9062",
+    "user_id": "USR-1075",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "High",
+    "created_at": "2026-07-22T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9063",
+    "user_id": "USR-1075",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "Medium",
+    "created_at": "2026-07-01T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9064",
+    "user_id": "USR-1076",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "Low",
+    "created_at": "2026-03-24T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9065",
+    "user_id": "USR-1077",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "High",
+    "created_at": "2026-04-12T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9066",
+    "user_id": "USR-1079",
+    "ticket_text": "Can we upgrade our tier? We are scaling our analyst team next month.",
+    "priority": "Medium",
+    "created_at": "2026-03-31T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9067",
+    "user_id": "USR-1079",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "High",
+    "created_at": "2026-04-03T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9068",
+    "user_id": "USR-1079",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "High",
+    "created_at": "2026-03-24T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9069",
+    "user_id": "USR-1082",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Medium",
+    "created_at": "2026-01-24T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9070",
+    "user_id": "USR-1084",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "Urgent",
+    "created_at": "2025-11-25T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9071",
+    "user_id": "USR-1084",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Medium",
+    "created_at": "2025-12-26T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9072",
+    "user_id": "USR-1084",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "Urgent",
+    "created_at": "2025-12-12T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9073",
+    "user_id": "USR-1085",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Medium",
+    "created_at": "2026-06-02T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9074",
+    "user_id": "USR-1085",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Low",
+    "created_at": "2026-06-09T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9075",
+    "user_id": "USR-1085",
+    "ticket_text": "Can we upgrade our tier? We are scaling our analyst team next month.",
+    "priority": "Low",
+    "created_at": "2026-06-11T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9076",
+    "user_id": "USR-1087",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Medium",
+    "created_at": "2026-03-06T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9077",
+    "user_id": "USR-1088",
+    "ticket_text": "System has been completely down during market open. Unacceptable outage!",
+    "priority": "Medium",
+    "created_at": "2025-12-22T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9078",
+    "user_id": "USR-1088",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "High",
+    "created_at": "2026-01-25T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9079",
+    "user_id": "USR-1089",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "Low",
+    "created_at": "2026-01-25T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9080",
+    "user_id": "USR-1093",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Low",
+    "created_at": "2026-09-07T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9081",
+    "user_id": "USR-1094",
+    "ticket_text": "System has been completely down during market open. Unacceptable outage!",
+    "priority": "Urgent",
+    "created_at": "2026-05-16T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9082",
+    "user_id": "USR-1094",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "High",
+    "created_at": "2026-05-01T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9083",
+    "user_id": "USR-1095",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "High",
+    "created_at": "2026-05-30T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9084",
+    "user_id": "USR-1097",
+    "ticket_text": "Can we upgrade our tier? We are scaling our analyst team next month.",
+    "priority": "High",
+    "created_at": "2026-04-30T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9085",
+    "user_id": "USR-1097",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "Urgent",
+    "created_at": "2026-03-16T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9086",
+    "user_id": "USR-1098",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "High",
+    "created_at": "2026-04-03T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9087",
+    "user_id": "USR-1100",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Low",
+    "created_at": "2026-08-11T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9088",
+    "user_id": "USR-1100",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Urgent",
+    "created_at": "2026-08-25T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9089",
+    "user_id": "USR-1100",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "Urgent",
+    "created_at": "2026-08-07T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9090",
+    "user_id": "USR-1101",
+    "ticket_text": "Can we upgrade our tier? We are scaling our analyst team next month.",
+    "priority": "Urgent",
+    "created_at": "2026-05-25T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9091",
+    "user_id": "USR-1101",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Urgent",
+    "created_at": "2026-06-04T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9092",
+    "user_id": "USR-1102",
+    "ticket_text": "Can we upgrade our tier? We are scaling our analyst team next month.",
+    "priority": "High",
+    "created_at": "2026-04-07T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9093",
+    "user_id": "USR-1103",
+    "ticket_text": "Can we upgrade our tier? We are scaling our analyst team next month.",
+    "priority": "Low",
+    "created_at": "2026-07-13T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9094",
+    "user_id": "USR-1104",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Urgent",
+    "created_at": "2026-04-30T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9095",
+    "user_id": "USR-1104",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Urgent",
+    "created_at": "2026-04-16T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9096",
+    "user_id": "USR-1105",
+    "ticket_text": "System has been completely down during market open. Unacceptable outage!",
+    "priority": "Urgent",
+    "created_at": "2025-12-29T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9097",
+    "user_id": "USR-1105",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Low",
+    "created_at": "2025-12-30T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9098",
+    "user_id": "USR-1105",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "High",
+    "created_at": "2025-11-22T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9099",
+    "user_id": "USR-1106",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "Urgent",
+    "created_at": "2025-11-29T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9100",
+    "user_id": "USR-1107",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "Medium",
+    "created_at": "2026-02-08T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9101",
+    "user_id": "USR-1108",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Medium",
+    "created_at": "2026-07-17T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9102",
+    "user_id": "USR-1108",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "High",
+    "created_at": "2026-07-16T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9103",
+    "user_id": "USR-1109",
+    "ticket_text": "Can we upgrade our tier? We are scaling our analyst team next month.",
+    "priority": "Urgent",
+    "created_at": "2026-06-01T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9104",
+    "user_id": "USR-1109",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "High",
+    "created_at": "2026-06-17T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9105",
+    "user_id": "USR-1110",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Low",
+    "created_at": "2026-05-08T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9106",
+    "user_id": "USR-1110",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "High",
+    "created_at": "2026-05-06T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9107",
+    "user_id": "USR-1111",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Low",
+    "created_at": "2026-05-30T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9108",
+    "user_id": "USR-1113",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "High",
+    "created_at": "2026-04-13T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9109",
+    "user_id": "USR-1113",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Urgent",
+    "created_at": "2026-04-06T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9110",
+    "user_id": "USR-1114",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Urgent",
+    "created_at": "2026-05-28T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9111",
+    "user_id": "USR-1114",
+    "ticket_text": "System has been completely down during market open. Unacceptable outage!",
+    "priority": "Urgent",
+    "created_at": "2026-05-05T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9112",
+    "user_id": "USR-1115",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "High",
+    "created_at": "2026-04-27T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9113",
+    "user_id": "USR-1116",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Low",
+    "created_at": "2026-03-06T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9114",
+    "user_id": "USR-1116",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "High",
+    "created_at": "2026-04-13T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9115",
+    "user_id": "USR-1116",
+    "ticket_text": "System has been completely down during market open. Unacceptable outage!",
+    "priority": "Medium",
+    "created_at": "2026-03-18T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9116",
+    "user_id": "USR-1117",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "Urgent",
+    "created_at": "2025-11-16T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9117",
+    "user_id": "USR-1117",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Urgent",
+    "created_at": "2025-12-20T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9118",
+    "user_id": "USR-1118",
+    "ticket_text": "System has been completely down during market open. Unacceptable outage!",
+    "priority": "High",
+    "created_at": "2026-01-28T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9119",
+    "user_id": "USR-1118",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "Medium",
+    "created_at": "2026-02-08T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9120",
+    "user_id": "USR-1118",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "High",
+    "created_at": "2026-01-17T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9121",
+    "user_id": "USR-1119",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "Low",
+    "created_at": "2026-06-13T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9122",
+    "user_id": "USR-1119",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Low",
+    "created_at": "2026-05-05T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9123",
+    "user_id": "USR-1119",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Medium",
+    "created_at": "2026-06-11T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9124",
+    "user_id": "USR-1121",
+    "ticket_text": "Can we upgrade our tier? We are scaling our analyst team next month.",
+    "priority": "High",
+    "created_at": "2026-02-25T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9125",
+    "user_id": "USR-1121",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Low",
+    "created_at": "2026-02-23T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9126",
+    "user_id": "USR-1123",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Low",
+    "created_at": "2026-01-03T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9127",
+    "user_id": "USR-1125",
+    "ticket_text": "System has been completely down during market open. Unacceptable outage!",
+    "priority": "Low",
+    "created_at": "2025-12-05T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9128",
+    "user_id": "USR-1126",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "High",
+    "created_at": "2026-01-27T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9129",
+    "user_id": "USR-1127",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Medium",
+    "created_at": "2026-08-20T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9130",
+    "user_id": "USR-1127",
+    "ticket_text": "Can we upgrade our tier? We are scaling our analyst team next month.",
+    "priority": "Urgent",
+    "created_at": "2026-08-07T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9131",
+    "user_id": "USR-1128",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "High",
+    "created_at": "2026-07-21T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9132",
+    "user_id": "USR-1130",
+    "ticket_text": "System has been completely down during market open. Unacceptable outage!",
+    "priority": "Urgent",
+    "created_at": "2026-06-13T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9133",
+    "user_id": "USR-1132",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "High",
+    "created_at": "2026-07-31T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9134",
+    "user_id": "USR-1132",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Medium",
+    "created_at": "2026-08-26T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9135",
+    "user_id": "USR-1134",
+    "ticket_text": "System has been completely down during market open. Unacceptable outage!",
+    "priority": "Medium",
+    "created_at": "2026-04-01T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9136",
+    "user_id": "USR-1134",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Urgent",
+    "created_at": "2026-04-15T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9137",
+    "user_id": "USR-1134",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Low",
+    "created_at": "2026-03-19T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9138",
+    "user_id": "USR-1137",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "High",
+    "created_at": "2025-12-17T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9139",
+    "user_id": "USR-1138",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "High",
+    "created_at": "2026-08-15T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9140",
+    "user_id": "USR-1141",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "High",
+    "created_at": "2026-07-24T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9141",
+    "user_id": "USR-1142",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "Urgent",
+    "created_at": "2026-06-19T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9142",
+    "user_id": "USR-1142",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "High",
+    "created_at": "2026-06-23T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9143",
+    "user_id": "USR-1143",
+    "ticket_text": "System has been completely down during market open. Unacceptable outage!",
+    "priority": "Urgent",
+    "created_at": "2026-06-11T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9144",
+    "user_id": "USR-1143",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "Urgent",
+    "created_at": "2026-06-03T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9145",
+    "user_id": "USR-1145",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "High",
+    "created_at": "2026-03-04T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9146",
+    "user_id": "USR-1147",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "Urgent",
+    "created_at": "2026-02-26T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9147",
+    "user_id": "USR-1147",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "High",
+    "created_at": "2026-02-14T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9148",
+    "user_id": "USR-1148",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Low",
+    "created_at": "2026-05-22T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9149",
+    "user_id": "USR-1152",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Low",
+    "created_at": "2026-08-15T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9150",
+    "user_id": "USR-1152",
+    "ticket_text": "Can we upgrade our tier? We are scaling our analyst team next month.",
+    "priority": "Low",
+    "created_at": "2026-08-03T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9151",
+    "user_id": "USR-1156",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Urgent",
+    "created_at": "2026-01-28T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9152",
+    "user_id": "USR-1156",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Low",
+    "created_at": "2026-02-16T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9153",
+    "user_id": "USR-1156",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "High",
+    "created_at": "2026-02-13T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9154",
+    "user_id": "USR-1158",
+    "ticket_text": "System has been completely down during market open. Unacceptable outage!",
+    "priority": "High",
+    "created_at": "2026-01-30T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9155",
+    "user_id": "USR-1158",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Low",
+    "created_at": "2026-02-22T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9156",
+    "user_id": "USR-1158",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Medium",
+    "created_at": "2026-02-11T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9157",
+    "user_id": "USR-1159",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Urgent",
+    "created_at": "2026-05-15T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9158",
+    "user_id": "USR-1159",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Medium",
+    "created_at": "2026-05-31T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9159",
+    "user_id": "USR-1160",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "Medium",
+    "created_at": "2026-05-04T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9160",
+    "user_id": "USR-1160",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "Urgent",
+    "created_at": "2026-04-27T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9161",
+    "user_id": "USR-1160",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Urgent",
+    "created_at": "2026-05-03T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9162",
+    "user_id": "USR-1161",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Urgent",
+    "created_at": "2026-07-24T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9163",
+    "user_id": "USR-1161",
+    "ticket_text": "System has been completely down during market open. Unacceptable outage!",
+    "priority": "Low",
+    "created_at": "2026-08-25T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9164",
+    "user_id": "USR-1162",
+    "ticket_text": "Can we upgrade our tier? We are scaling our analyst team next month.",
+    "priority": "Urgent",
+    "created_at": "2025-12-10T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9165",
+    "user_id": "USR-1162",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "Low",
+    "created_at": "2025-12-06T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9166",
+    "user_id": "USR-1165",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Medium",
+    "created_at": "2026-06-23T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9167",
+    "user_id": "USR-1165",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Urgent",
+    "created_at": "2026-07-27T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9168",
+    "user_id": "USR-1165",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Medium",
+    "created_at": "2026-08-10T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9169",
+    "user_id": "USR-1166",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Urgent",
+    "created_at": "2026-01-02T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9170",
+    "user_id": "USR-1169",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "Low",
+    "created_at": "2026-01-07T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9171",
+    "user_id": "USR-1171",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "High",
+    "created_at": "2026-01-14T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9172",
+    "user_id": "USR-1171",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "High",
+    "created_at": "2025-11-30T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9173",
+    "user_id": "USR-1173",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Urgent",
+    "created_at": "2026-07-01T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9174",
+    "user_id": "USR-1173",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Low",
+    "created_at": "2026-07-11T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9175",
+    "user_id": "USR-1176",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "Low",
+    "created_at": "2026-03-14T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9176",
+    "user_id": "USR-1176",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Medium",
+    "created_at": "2026-03-06T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9177",
+    "user_id": "USR-1178",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "Urgent",
+    "created_at": "2026-06-20T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9178",
+    "user_id": "USR-1178",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Low",
+    "created_at": "2026-07-08T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9179",
+    "user_id": "USR-1179",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Urgent",
+    "created_at": "2026-05-29T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9180",
+    "user_id": "USR-1179",
+    "ticket_text": "System has been completely down during market open. Unacceptable outage!",
+    "priority": "Medium",
+    "created_at": "2026-05-28T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9181",
+    "user_id": "USR-1179",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Urgent",
+    "created_at": "2026-06-12T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9182",
+    "user_id": "USR-1182",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "Low",
+    "created_at": "2026-04-09T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9183",
+    "user_id": "USR-1184",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "High",
+    "created_at": "2026-02-22T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9184",
+    "user_id": "USR-1184",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Low",
+    "created_at": "2026-01-24T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9185",
+    "user_id": "USR-1184",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "High",
+    "created_at": "2026-02-05T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9186",
+    "user_id": "USR-1185",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Urgent",
+    "created_at": "2026-02-01T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9187",
+    "user_id": "USR-1185",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "High",
+    "created_at": "2026-02-09T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9188",
+    "user_id": "USR-1189",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Low",
+    "created_at": "2026-08-04T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9189",
+    "user_id": "USR-1189",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Medium",
+    "created_at": "2026-08-10T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9190",
+    "user_id": "USR-1189",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Medium",
+    "created_at": "2026-08-21T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9191",
+    "user_id": "USR-1191",
+    "ticket_text": "Can we upgrade our tier? We are scaling our analyst team next month.",
+    "priority": "Medium",
+    "created_at": "2026-05-04T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9192",
+    "user_id": "USR-1192",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "High",
+    "created_at": "2026-05-29T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9193",
+    "user_id": "USR-1192",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Urgent",
+    "created_at": "2026-04-23T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9194",
+    "user_id": "USR-1192",
+    "ticket_text": "System has been completely down during market open. Unacceptable outage!",
+    "priority": "Urgent",
+    "created_at": "2026-05-20T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9195",
+    "user_id": "USR-1194",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "Medium",
+    "created_at": "2025-12-20T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9196",
+    "user_id": "USR-1195",
+    "ticket_text": "Can we upgrade our tier? We are scaling our analyst team next month.",
+    "priority": "Urgent",
+    "created_at": "2026-04-23T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9197",
+    "user_id": "USR-1197",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Medium",
+    "created_at": "2026-06-20T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9198",
+    "user_id": "USR-1197",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "Urgent",
+    "created_at": "2026-06-05T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9199",
+    "user_id": "USR-1197",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "Low",
+    "created_at": "2026-05-24T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9200",
+    "user_id": "USR-1200",
+    "ticket_text": "System has been completely down during market open. Unacceptable outage!",
+    "priority": "Urgent",
+    "created_at": "2025-11-18T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9201",
+    "user_id": "USR-1200",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "Medium",
+    "created_at": "2025-12-01T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9202",
+    "user_id": "USR-1201",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Low",
+    "created_at": "2026-08-20T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9203",
+    "user_id": "USR-1201",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "High",
+    "created_at": "2026-08-09T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9204",
+    "user_id": "USR-1202",
+    "ticket_text": "System has been completely down during market open. Unacceptable outage!",
+    "priority": "Low",
+    "created_at": "2026-08-07T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9205",
+    "user_id": "USR-1203",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "High",
+    "created_at": "2026-04-17T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9206",
+    "user_id": "USR-1203",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "High",
+    "created_at": "2026-05-04T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9207",
+    "user_id": "USR-1205",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Low",
+    "created_at": "2025-12-17T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9208",
+    "user_id": "USR-1206",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "Urgent",
+    "created_at": "2026-06-30T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9209",
+    "user_id": "USR-1208",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "Urgent",
+    "created_at": "2026-05-22T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9210",
+    "user_id": "USR-1209",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "Urgent",
+    "created_at": "2025-12-24T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9211",
+    "user_id": "USR-1209",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "High",
+    "created_at": "2025-12-05T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9212",
+    "user_id": "USR-1209",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "High",
+    "created_at": "2025-12-16T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9213",
+    "user_id": "USR-1212",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "High",
+    "created_at": "2026-05-10T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9214",
+    "user_id": "USR-1213",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Urgent",
+    "created_at": "2026-04-27T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9215",
+    "user_id": "USR-1213",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "High",
+    "created_at": "2026-03-29T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9216",
+    "user_id": "USR-1213",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Medium",
+    "created_at": "2026-04-30T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9217",
+    "user_id": "USR-1216",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "High",
+    "created_at": "2026-01-13T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9218",
+    "user_id": "USR-1217",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Low",
+    "created_at": "2026-05-04T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9219",
+    "user_id": "USR-1218",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Low",
+    "created_at": "2026-07-18T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9220",
+    "user_id": "USR-1218",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "Low",
+    "created_at": "2026-06-12T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9221",
+    "user_id": "USR-1218",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "Urgent",
+    "created_at": "2026-06-11T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9222",
+    "user_id": "USR-1220",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Medium",
+    "created_at": "2026-07-22T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9223",
+    "user_id": "USR-1220",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Urgent",
+    "created_at": "2026-07-25T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9224",
+    "user_id": "USR-1226",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Urgent",
+    "created_at": "2026-03-21T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9225",
+    "user_id": "USR-1226",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "Medium",
+    "created_at": "2026-03-18T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9226",
+    "user_id": "USR-1228",
+    "ticket_text": "Can we upgrade our tier? We are scaling our analyst team next month.",
+    "priority": "High",
+    "created_at": "2026-08-17T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9227",
+    "user_id": "USR-1230",
+    "ticket_text": "System has been completely down during market open. Unacceptable outage!",
+    "priority": "Urgent",
+    "created_at": "2026-08-14T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9228",
+    "user_id": "USR-1231",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "High",
+    "created_at": "2026-03-28T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9229",
+    "user_id": "USR-1233",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "Low",
+    "created_at": "2026-02-16T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9230",
+    "user_id": "USR-1233",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Medium",
+    "created_at": "2026-03-06T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9231",
+    "user_id": "USR-1235",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Medium",
+    "created_at": "2026-03-10T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9232",
+    "user_id": "USR-1239",
+    "ticket_text": "System has been completely down during market open. Unacceptable outage!",
+    "priority": "Medium",
+    "created_at": "2026-01-03T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9233",
+    "user_id": "USR-1239",
+    "ticket_text": "Can we upgrade our tier? We are scaling our analyst team next month.",
+    "priority": "High",
+    "created_at": "2025-12-03T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9234",
+    "user_id": "USR-1241",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "Urgent",
+    "created_at": "2026-04-22T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9235",
+    "user_id": "USR-1242",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "Medium",
+    "created_at": "2026-05-08T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9236",
+    "user_id": "USR-1243",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "Urgent",
+    "created_at": "2026-06-27T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9237",
+    "user_id": "USR-1243",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "Medium",
+    "created_at": "2026-07-29T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9238",
+    "user_id": "USR-1244",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Low",
+    "created_at": "2026-04-21T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9239",
+    "user_id": "USR-1244",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Medium",
+    "created_at": "2026-04-13T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9240",
+    "user_id": "USR-1244",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "Low",
+    "created_at": "2026-03-15T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9241",
+    "user_id": "USR-1245",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Low",
+    "created_at": "2026-02-17T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9242",
+    "user_id": "USR-1245",
+    "ticket_text": "Threatening to cancel our subscription unless pricing variance is resolved.",
+    "priority": "Low",
+    "created_at": "2026-02-08T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9243",
+    "user_id": "USR-1246",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "High",
+    "created_at": "2026-07-28T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9244",
+    "user_id": "USR-1246",
+    "ticket_text": "Great experience so far, just checking on rate limit thresholds for the API.",
+    "priority": "High",
+    "created_at": "2026-07-22T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9245",
+    "user_id": "USR-1246",
+    "ticket_text": "Billing error! We were double-charged for our Enterprise subscription.",
+    "priority": "Urgent",
+    "created_at": "2026-07-09T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9246",
+    "user_id": "USR-1247",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Medium",
+    "created_at": "2026-01-16T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-9247",
+    "user_id": "USR-1248",
+    "ticket_text": "Can we upgrade our tier? We are scaling our analyst team next month.",
+    "priority": "Medium",
+    "created_at": "2026-01-24T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9248",
+    "user_id": "USR-1248",
+    "ticket_text": "The platform speed is sluggish when exporting large reports. Need help.",
+    "priority": "Medium",
+    "created_at": "2026-01-20T20:04:40.735790",
+    "resolution_status": "closed"
+  },
+  {
+    "ticket_id": "TCK-9249",
+    "user_id": "USR-1249",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "High",
+    "created_at": "2026-09-17T20:04:40.735790",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-9250",
+    "user_id": "USR-1250",
+    "ticket_text": "Integration with Snowflake keeps throwing connection timeouts.",
+    "priority": "Low",
+    "created_at": "2026-02-25T20:04:40.735790",
+    "resolution_status": "pending"
+  },
+  {
+    "ticket_id": "TCK-ORPHAN-0",
+    "user_id": "USR-NONEXISTENT-0",
+    "ticket_text": "System error. User session unlinked from tenant record.",
+    "priority": "High",
+    "created_at": "2026-10-15T20:04:40.903166",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-ORPHAN-1",
+    "user_id": "USR-NONEXISTENT-1",
+    "ticket_text": "System error. User session unlinked from tenant record.",
+    "priority": "High",
+    "created_at": "2026-10-15T20:04:40.903174",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-ORPHAN-2",
+    "user_id": "USR-NONEXISTENT-2",
+    "ticket_text": "System error. User session unlinked from tenant record.",
+    "priority": "High",
+    "created_at": "2026-10-15T20:04:40.903176",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-ORPHAN-3",
+    "user_id": "USR-NONEXISTENT-3",
+    "ticket_text": "System error. User session unlinked from tenant record.",
+    "priority": "High",
+    "created_at": "2026-10-15T20:04:40.903178",
+    "resolution_status": "open"
+  },
+  {
+    "ticket_id": "TCK-ORPHAN-4",
+    "user_id": "USR-NONEXISTENT-4",
+    "ticket_text": "System error. User session unlinked from tenant record.",
+    "priority": "High",
+    "created_at": "2026-10-15T20:04:40.903180",
+    "resolution_status": "open"
+  }
+]

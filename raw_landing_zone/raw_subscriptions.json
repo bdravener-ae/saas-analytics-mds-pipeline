@@ -1,0 +1,2252 @@
+[
+  {
+    "subscription_id": "SUB-5001",
+    "user_id": "USR-1001",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2025-12-12T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5002",
+    "user_id": "USR-1002",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "canceled",
+    "start_date": "2026-02-03T20:04:40.735790",
+    "end_date": "2027-02-03T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5003",
+    "user_id": "USR-1003",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-07-25T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5004",
+    "user_id": "USR-1004",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-02-05T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5005",
+    "user_id": "USR-1005",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "past_due",
+    "start_date": "2026-04-14T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5006",
+    "user_id": "USR-1006",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-04-18T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5007",
+    "user_id": "USR-1007",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2025-12-10T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5008",
+    "user_id": "USR-1008",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-04-19T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5009",
+    "user_id": "USR-1009",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "canceled",
+    "start_date": "2026-06-13T20:04:40.735790",
+    "end_date": "2027-06-13T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5010",
+    "user_id": "USR-1010",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "past_due",
+    "start_date": "2026-04-01T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5011",
+    "user_id": "USR-1011",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "past_due",
+    "start_date": "2026-02-05T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5012",
+    "user_id": "USR-1012",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "canceled",
+    "start_date": "2026-06-07T20:04:40.735790",
+    "end_date": "2027-06-07T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5013",
+    "user_id": "USR-1013",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "past_due",
+    "start_date": "2026-05-11T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5014",
+    "user_id": "USR-1014",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "past_due",
+    "start_date": "2025-11-09T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5015",
+    "user_id": "USR-1015",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-02-25T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5016",
+    "user_id": "USR-1016",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "past_due",
+    "start_date": "2026-04-08T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5017",
+    "user_id": "USR-1017",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-02-26T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5018",
+    "user_id": "USR-1018",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-07-16T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5019",
+    "user_id": "USR-1019",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "canceled",
+    "start_date": "2026-04-19T20:04:40.735790",
+    "end_date": "2027-04-19T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5020",
+    "user_id": "USR-1020",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-07-16T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5021",
+    "user_id": "USR-1021",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "canceled",
+    "start_date": "2026-02-11T20:04:40.735790",
+    "end_date": "2027-02-11T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5022",
+    "user_id": "USR-1022",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-02-09T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5023",
+    "user_id": "USR-1023",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2025-11-01T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5024",
+    "user_id": "USR-1024",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "past_due",
+    "start_date": "2026-08-06T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5025",
+    "user_id": "USR-1025",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "past_due",
+    "start_date": "2025-12-06T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5026",
+    "user_id": "USR-1026",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-02-22T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5027",
+    "user_id": "USR-1027",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "canceled",
+    "start_date": "2026-06-03T20:04:40.735790",
+    "end_date": "2027-06-03T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5028",
+    "user_id": "USR-1028",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "past_due",
+    "start_date": "2026-05-08T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5029",
+    "user_id": "USR-1029",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "canceled",
+    "start_date": "2026-06-09T20:04:40.735790",
+    "end_date": "2027-06-09T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5030",
+    "user_id": "USR-1030",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-02-07T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5031",
+    "user_id": "USR-1031",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-07-06T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5032",
+    "user_id": "USR-1032",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-02-22T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5033",
+    "user_id": "USR-1033",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-01-30T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5034",
+    "user_id": "USR-1034",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2025-10-19T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5035",
+    "user_id": "USR-1035",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "past_due",
+    "start_date": "2025-11-20T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5036",
+    "user_id": "USR-1036",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "canceled",
+    "start_date": "2025-12-07T20:04:40.735790",
+    "end_date": "2026-12-07T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5037",
+    "user_id": "USR-1037",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-03-10T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5038",
+    "user_id": "USR-1038",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2025-11-10T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5039",
+    "user_id": "USR-1039",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "canceled",
+    "start_date": "2025-12-23T20:04:40.735790",
+    "end_date": "2026-12-23T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5040",
+    "user_id": "USR-1040",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-08-10T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5041",
+    "user_id": "USR-1041",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2025-11-05T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5042",
+    "user_id": "USR-1042",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-07-29T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5043",
+    "user_id": "USR-1043",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "past_due",
+    "start_date": "2026-02-19T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5044",
+    "user_id": "USR-1044",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "past_due",
+    "start_date": "2026-02-09T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5045",
+    "user_id": "USR-1045",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "past_due",
+    "start_date": "2025-11-23T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5046",
+    "user_id": "USR-1046",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2025-12-15T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5047",
+    "user_id": "USR-1047",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "canceled",
+    "start_date": "2026-05-29T20:04:40.735790",
+    "end_date": "2027-05-29T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5048",
+    "user_id": "USR-1048",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "past_due",
+    "start_date": "2026-08-11T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5049",
+    "user_id": "USR-1049",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-07-17T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5050",
+    "user_id": "USR-1050",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-03-20T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5051",
+    "user_id": "USR-1051",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-05-22T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5052",
+    "user_id": "USR-1052",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-02-04T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5053",
+    "user_id": "USR-1053",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "canceled",
+    "start_date": "2026-06-18T20:04:40.735790",
+    "end_date": "2027-06-18T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5054",
+    "user_id": "USR-1054",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-02-13T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5055",
+    "user_id": "USR-1055",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "canceled",
+    "start_date": "2026-06-18T20:04:40.735790",
+    "end_date": "2027-06-18T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5056",
+    "user_id": "USR-1056",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-04-30T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5057",
+    "user_id": "USR-1057",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "past_due",
+    "start_date": "2026-07-28T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5058",
+    "user_id": "USR-1058",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "past_due",
+    "start_date": "2026-07-01T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5059",
+    "user_id": "USR-1059",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-06-20T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5060",
+    "user_id": "USR-1060",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-04-05T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5061",
+    "user_id": "USR-1061",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-01-04T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5062",
+    "user_id": "USR-1062",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "past_due",
+    "start_date": "2026-05-05T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5063",
+    "user_id": "USR-1063",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "canceled",
+    "start_date": "2026-04-17T20:04:40.735790",
+    "end_date": "2027-04-17T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5064",
+    "user_id": "USR-1064",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "canceled",
+    "start_date": "2026-04-06T20:04:40.735790",
+    "end_date": "2027-04-06T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5065",
+    "user_id": "USR-1065",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-05-22T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5066",
+    "user_id": "USR-1066",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-02-03T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5067",
+    "user_id": "USR-1067",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-02-07T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5068",
+    "user_id": "USR-1068",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "canceled",
+    "start_date": "2026-02-04T20:04:40.735790",
+    "end_date": "2027-02-04T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5069",
+    "user_id": "USR-1069",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "canceled",
+    "start_date": "2026-03-25T20:04:40.735790",
+    "end_date": "2027-03-25T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5070",
+    "user_id": "USR-1070",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-02-20T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5071",
+    "user_id": "USR-1071",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-07-04T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5072",
+    "user_id": "USR-1072",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-01-05T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5073",
+    "user_id": "USR-1073",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-05-27T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5074",
+    "user_id": "USR-1074",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "past_due",
+    "start_date": "2026-06-06T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5075",
+    "user_id": "USR-1075",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-06-26T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5076",
+    "user_id": "USR-1076",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "past_due",
+    "start_date": "2026-02-16T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5077",
+    "user_id": "USR-1077",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-03-15T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5078",
+    "user_id": "USR-1078",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-07-26T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5079",
+    "user_id": "USR-1079",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "canceled",
+    "start_date": "2026-02-10T20:04:40.735790",
+    "end_date": "2027-02-10T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5080",
+    "user_id": "USR-1080",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-01-23T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5081",
+    "user_id": "USR-1081",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "canceled",
+    "start_date": "2026-07-15T20:04:40.735790",
+    "end_date": "2027-07-15T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5082",
+    "user_id": "USR-1082",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2025-12-22T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5083",
+    "user_id": "USR-1083",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "past_due",
+    "start_date": "2026-02-24T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5084",
+    "user_id": "USR-1084",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2025-11-13T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5085",
+    "user_id": "USR-1085",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "canceled",
+    "start_date": "2026-05-22T20:04:40.735790",
+    "end_date": "2027-05-22T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5086",
+    "user_id": "USR-1086",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "past_due",
+    "start_date": "2025-10-20T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5087",
+    "user_id": "USR-1087",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-02-13T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5088",
+    "user_id": "USR-1088",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2025-12-13T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5089",
+    "user_id": "USR-1089",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2025-12-20T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5090",
+    "user_id": "USR-1090",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2025-11-06T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5091",
+    "user_id": "USR-1091",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "canceled",
+    "start_date": "2026-08-07T20:04:40.735790",
+    "end_date": "2027-08-07T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5092",
+    "user_id": "USR-1092",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-01-15T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5093",
+    "user_id": "USR-1093",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-08-13T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5094",
+    "user_id": "USR-1094",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "past_due",
+    "start_date": "2026-04-06T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5095",
+    "user_id": "USR-1095",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "past_due",
+    "start_date": "2026-05-13T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5096",
+    "user_id": "USR-1096",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "canceled",
+    "start_date": "2026-06-29T20:04:40.735790",
+    "end_date": "2027-06-29T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5097",
+    "user_id": "USR-1097",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "canceled",
+    "start_date": "2026-03-11T20:04:40.735790",
+    "end_date": "2027-03-11T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5098",
+    "user_id": "USR-1098",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-02-12T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5099",
+    "user_id": "USR-1099",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-06-23T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5100",
+    "user_id": "USR-1100",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-07-05T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5101",
+    "user_id": "USR-1101",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-04-06T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5102",
+    "user_id": "USR-1102",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-03-31T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5103",
+    "user_id": "USR-1103",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-05-28T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5104",
+    "user_id": "USR-1104",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-03-02T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5105",
+    "user_id": "USR-1105",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2025-11-07T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5106",
+    "user_id": "USR-1106",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2025-11-09T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5107",
+    "user_id": "USR-1107",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "past_due",
+    "start_date": "2026-01-19T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5108",
+    "user_id": "USR-1108",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-06-13T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5109",
+    "user_id": "USR-1109",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "past_due",
+    "start_date": "2026-05-21T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5110",
+    "user_id": "USR-1110",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "canceled",
+    "start_date": "2026-03-15T20:04:40.735790",
+    "end_date": "2027-03-15T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5111",
+    "user_id": "USR-1111",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-04-15T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5112",
+    "user_id": "USR-1112",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-06-02T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5113",
+    "user_id": "USR-1113",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-03-16T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5114",
+    "user_id": "USR-1114",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-04-07T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5115",
+    "user_id": "USR-1115",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-03-01T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5116",
+    "user_id": "USR-1116",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-02-15T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5117",
+    "user_id": "USR-1117",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2025-11-03T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5118",
+    "user_id": "USR-1118",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "past_due",
+    "start_date": "2026-01-06T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5119",
+    "user_id": "USR-1119",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-04-17T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5120",
+    "user_id": "USR-1120",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "canceled",
+    "start_date": "2026-08-01T20:04:40.735790",
+    "end_date": "2027-08-01T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5121",
+    "user_id": "USR-1121",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-02-11T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5122",
+    "user_id": "USR-1122",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2025-10-24T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5123",
+    "user_id": "USR-1123",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2025-11-10T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5124",
+    "user_id": "USR-1124",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "canceled",
+    "start_date": "2026-07-04T20:04:40.735790",
+    "end_date": "2027-07-04T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5125",
+    "user_id": "USR-1125",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2025-11-02T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5126",
+    "user_id": "USR-1126",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "canceled",
+    "start_date": "2026-01-02T20:04:40.735790",
+    "end_date": "2027-01-02T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5127",
+    "user_id": "USR-1127",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-07-05T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5128",
+    "user_id": "USR-1128",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-06-04T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5129",
+    "user_id": "USR-1129",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "past_due",
+    "start_date": "2026-06-14T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5130",
+    "user_id": "USR-1130",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "canceled",
+    "start_date": "2026-04-27T20:04:40.735790",
+    "end_date": "2027-04-27T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5131",
+    "user_id": "USR-1131",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-05-21T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5132",
+    "user_id": "USR-1132",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-07-04T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5133",
+    "user_id": "USR-1133",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "canceled",
+    "start_date": "2026-08-03T20:04:40.735790",
+    "end_date": "2027-08-03T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5134",
+    "user_id": "USR-1134",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-03-05T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5135",
+    "user_id": "USR-1135",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-07-16T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5136",
+    "user_id": "USR-1136",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-03-23T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5137",
+    "user_id": "USR-1137",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "past_due",
+    "start_date": "2025-11-14T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5138",
+    "user_id": "USR-1138",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-07-04T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5139",
+    "user_id": "USR-1139",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-02-04T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5140",
+    "user_id": "USR-1140",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-02-02T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5141",
+    "user_id": "USR-1141",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-05-27T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5142",
+    "user_id": "USR-1142",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-05-09T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5143",
+    "user_id": "USR-1143",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "past_due",
+    "start_date": "2026-05-14T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5144",
+    "user_id": "USR-1144",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2025-11-26T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5145",
+    "user_id": "USR-1145",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "canceled",
+    "start_date": "2026-01-09T20:04:40.735790",
+    "end_date": "2027-01-09T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5146",
+    "user_id": "USR-1146",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2025-12-31T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5147",
+    "user_id": "USR-1147",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "past_due",
+    "start_date": "2026-01-04T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5148",
+    "user_id": "USR-1148",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "past_due",
+    "start_date": "2026-03-28T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5149",
+    "user_id": "USR-1149",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-07-04T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5150",
+    "user_id": "USR-1150",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "canceled",
+    "start_date": "2026-03-14T20:04:40.735790",
+    "end_date": "2027-03-14T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5151",
+    "user_id": "USR-1151",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-08-12T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5152",
+    "user_id": "USR-1152",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-06-18T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5153",
+    "user_id": "USR-1153",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-05-31T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5154",
+    "user_id": "USR-1154",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "canceled",
+    "start_date": "2026-03-13T20:04:40.735790",
+    "end_date": "2027-03-13T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5155",
+    "user_id": "USR-1155",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "past_due",
+    "start_date": "2026-04-08T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5156",
+    "user_id": "USR-1156",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-01-04T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5157",
+    "user_id": "USR-1157",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-07-13T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5158",
+    "user_id": "USR-1158",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-01-16T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5159",
+    "user_id": "USR-1159",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "canceled",
+    "start_date": "2026-04-30T20:04:40.735790",
+    "end_date": "2027-04-30T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5160",
+    "user_id": "USR-1160",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-03-10T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5161",
+    "user_id": "USR-1161",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-07-16T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5162",
+    "user_id": "USR-1162",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2025-11-30T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5163",
+    "user_id": "USR-1163",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-06-29T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5164",
+    "user_id": "USR-1164",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-03-28T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5165",
+    "user_id": "USR-1165",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-06-17T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5166",
+    "user_id": "USR-1166",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "canceled",
+    "start_date": "2025-12-21T20:04:40.735790",
+    "end_date": "2026-12-21T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5167",
+    "user_id": "USR-1167",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-07-17T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5168",
+    "user_id": "USR-1168",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "past_due",
+    "start_date": "2025-10-19T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5169",
+    "user_id": "USR-1169",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "canceled",
+    "start_date": "2025-12-01T20:04:40.735790",
+    "end_date": "2026-12-01T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5170",
+    "user_id": "USR-1170",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-06-14T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5171",
+    "user_id": "USR-1171",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2025-11-23T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5172",
+    "user_id": "USR-1172",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-01-13T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5173",
+    "user_id": "USR-1173",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-06-06T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5174",
+    "user_id": "USR-1174",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-01-25T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5175",
+    "user_id": "USR-1175",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "past_due",
+    "start_date": "2026-04-24T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5176",
+    "user_id": "USR-1176",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-01-22T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5177",
+    "user_id": "USR-1177",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-03-16T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5178",
+    "user_id": "USR-1178",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-05-24T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5179",
+    "user_id": "USR-1179",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-05-15T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5180",
+    "user_id": "USR-1180",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2025-11-03T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5181",
+    "user_id": "USR-1181",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "past_due",
+    "start_date": "2025-11-25T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5182",
+    "user_id": "USR-1182",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-03-11T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5183",
+    "user_id": "USR-1183",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "past_due",
+    "start_date": "2026-02-27T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5184",
+    "user_id": "USR-1184",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "past_due",
+    "start_date": "2025-12-28T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5185",
+    "user_id": "USR-1185",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-01-12T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5186",
+    "user_id": "USR-1186",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-07-24T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5187",
+    "user_id": "USR-1187",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-06-21T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5188",
+    "user_id": "USR-1188",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "canceled",
+    "start_date": "2026-03-31T20:04:40.735790",
+    "end_date": "2027-03-31T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5189",
+    "user_id": "USR-1189",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "canceled",
+    "start_date": "2026-07-27T20:04:40.735790",
+    "end_date": "2027-07-27T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5190",
+    "user_id": "USR-1190",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "canceled",
+    "start_date": "2026-07-08T20:04:40.735790",
+    "end_date": "2027-07-08T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5191",
+    "user_id": "USR-1191",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-03-23T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5192",
+    "user_id": "USR-1192",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-04-05T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5193",
+    "user_id": "USR-1193",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "past_due",
+    "start_date": "2026-07-22T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5194",
+    "user_id": "USR-1194",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "past_due",
+    "start_date": "2025-11-24T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5195",
+    "user_id": "USR-1195",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "canceled",
+    "start_date": "2026-03-29T20:04:40.735790",
+    "end_date": "2027-03-29T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5196",
+    "user_id": "USR-1196",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-02-28T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5197",
+    "user_id": "USR-1197",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-04-30T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5198",
+    "user_id": "USR-1198",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "canceled",
+    "start_date": "2026-05-05T20:04:40.735790",
+    "end_date": "2027-05-05T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5199",
+    "user_id": "USR-1199",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "past_due",
+    "start_date": "2025-11-14T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5200",
+    "user_id": "USR-1200",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2025-10-21T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5201",
+    "user_id": "USR-1201",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "past_due",
+    "start_date": "2026-07-29T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5202",
+    "user_id": "USR-1202",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "canceled",
+    "start_date": "2026-07-31T20:04:40.735790",
+    "end_date": "2027-07-31T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5203",
+    "user_id": "USR-1203",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "canceled",
+    "start_date": "2026-04-04T20:04:40.735790",
+    "end_date": "2027-04-04T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5204",
+    "user_id": "USR-1204",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "canceled",
+    "start_date": "2026-04-08T20:04:40.735790",
+    "end_date": "2027-04-08T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5205",
+    "user_id": "USR-1205",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "past_due",
+    "start_date": "2025-10-23T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5206",
+    "user_id": "USR-1206",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-06-15T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5207",
+    "user_id": "USR-1207",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-02-16T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5208",
+    "user_id": "USR-1208",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-03-29T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5209",
+    "user_id": "USR-1209",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2025-11-19T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5210",
+    "user_id": "USR-1210",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-06-23T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5211",
+    "user_id": "USR-1211",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "past_due",
+    "start_date": "2026-03-21T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5212",
+    "user_id": "USR-1212",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "canceled",
+    "start_date": "2026-04-11T20:04:40.735790",
+    "end_date": "2027-04-11T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5213",
+    "user_id": "USR-1213",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-03-12T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5214",
+    "user_id": "USR-1214",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "canceled",
+    "start_date": "2026-08-16T20:04:40.735790",
+    "end_date": "2027-08-16T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5215",
+    "user_id": "USR-1215",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "past_due",
+    "start_date": "2026-02-13T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5216",
+    "user_id": "USR-1216",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "past_due",
+    "start_date": "2025-12-27T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5217",
+    "user_id": "USR-1217",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-03-14T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5218",
+    "user_id": "USR-1218",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-05-19T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5219",
+    "user_id": "USR-1219",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-06-30T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5220",
+    "user_id": "USR-1220",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-06-11T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5221",
+    "user_id": "USR-1221",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-07-10T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5222",
+    "user_id": "USR-1222",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2025-12-25T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5223",
+    "user_id": "USR-1223",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "canceled",
+    "start_date": "2026-06-04T20:04:40.735790",
+    "end_date": "2027-06-04T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5224",
+    "user_id": "USR-1224",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "past_due",
+    "start_date": "2026-04-17T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5225",
+    "user_id": "USR-1225",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-05-10T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5226",
+    "user_id": "USR-1226",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "past_due",
+    "start_date": "2026-02-06T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5227",
+    "user_id": "USR-1227",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2025-11-30T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5228",
+    "user_id": "USR-1228",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-08-03T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5229",
+    "user_id": "USR-1229",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "past_due",
+    "start_date": "2026-06-02T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5230",
+    "user_id": "USR-1230",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "canceled",
+    "start_date": "2026-07-04T20:04:40.735790",
+    "end_date": "2027-07-04T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5231",
+    "user_id": "USR-1231",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-03-21T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5232",
+    "user_id": "USR-1232",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2025-11-19T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5233",
+    "user_id": "USR-1233",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "past_due",
+    "start_date": "2026-01-18T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5234",
+    "user_id": "USR-1234",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "canceled",
+    "start_date": "2026-04-14T20:04:40.735790",
+    "end_date": "2027-04-14T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5235",
+    "user_id": "USR-1235",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "canceled",
+    "start_date": "2026-02-09T20:04:40.735790",
+    "end_date": "2027-02-09T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5236",
+    "user_id": "USR-1236",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-06-08T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5237",
+    "user_id": "USR-1237",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-05-18T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5238",
+    "user_id": "USR-1238",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2025-11-06T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5239",
+    "user_id": "USR-1239",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2025-11-10T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5240",
+    "user_id": "USR-1240",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "canceled",
+    "start_date": "2026-04-02T20:04:40.735790",
+    "end_date": "2027-04-02T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5241",
+    "user_id": "USR-1241",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "active",
+    "start_date": "2026-03-21T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5242",
+    "user_id": "USR-1242",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "past_due",
+    "start_date": "2026-04-14T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5243",
+    "user_id": "USR-1243",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-06-19T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5244",
+    "user_id": "USR-1244",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "active",
+    "start_date": "2026-02-21T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5245",
+    "user_id": "USR-1245",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2026-01-22T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5246",
+    "user_id": "USR-1246",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "past_due",
+    "start_date": "2026-06-18T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5247",
+    "user_id": "USR-1247",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2025-12-06T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5248",
+    "user_id": "USR-1248",
+    "plan_tier": "Enterprise",
+    "monthly_recurring_revenue": 2499,
+    "status": "canceled",
+    "start_date": "2026-01-01T20:04:40.735790",
+    "end_date": "2027-01-01T20:04:40.735790"
+  },
+  {
+    "subscription_id": "SUB-5249",
+    "user_id": "USR-1249",
+    "plan_tier": "Professional",
+    "monthly_recurring_revenue": 499,
+    "status": "past_due",
+    "start_date": "2026-07-28T20:04:40.735790",
+    "end_date": null
+  },
+  {
+    "subscription_id": "SUB-5250",
+    "user_id": "USR-1250",
+    "plan_tier": "Starter",
+    "monthly_recurring_revenue": 99,
+    "status": "active",
+    "start_date": "2025-12-29T20:04:40.735790",
+    "end_date": null
+  }
+]
