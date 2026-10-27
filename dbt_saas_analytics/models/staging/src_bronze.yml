@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: bronze
+    database: SAAS_ANALYTICS_DB
+    schema: BRONZE
+    tables:
+      - name: RAW_USERS
+      - name: RAW_SUBSCRIPTIONS
+      - name: RAW_PAYMENTS
+      - name: RAW_SUPPORT_TICKETS

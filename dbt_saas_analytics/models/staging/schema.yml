@@ -1,0 +1,74 @@
+version: 2
+
+models:
+  - name: stg_users
+    description: "One row per customer company (B2B). Deduped on user_id; email lowercased, country uppercased."
+    columns:
+      - name: user_id
+        description: "Primary key for users."
+        tests: [unique, not_null]
+
+  - name: stg_subscriptions
+    description: "One row per subscription. Source fields renamed to standard names (plan_tier → plan_name, monthly_recurring_revenue → monthly_price)."
+    columns:
+      - name: subscription_id
+        description: "Primary key for subscriptions."
+        tests: [unique, not_null]
+      - name: user_id
+        tests:
+          - relationships:
+              to: ref('stg_users')
+              field: user_id
+      - name: status
+        description: "Lowercased. Values profiled from source."
+        tests:
+          - accepted_values:
+              values: ['active', 'canceled', 'past_due']
+
+  - name: stg_payments
+    description: "One row per payment attempt."
+    columns:
+      - name: payment_id
+        description: "Primary key for payments."
+        tests: [unique, not_null]
+      - name: user_id
+        tests:
+          - relationships:
+              to: ref('stg_users')
+              field: user_id
+      - name: subscription_id
+        tests:
+          - relationships:
+              to: ref('stg_subscriptions')
+              field: subscription_id
+      - name: payment_status
+        tests:
+          - accepted_values:
+              values: ['success', 'failed']
+
+  - name: stg_support_tickets
+    description: "One row per ticket. Deduped on ticket_id, text standardized, open and churn-risk flags added."
+    columns:
+      - name: ticket_id
+        description: "Primary key for tickets."
+        tests: [unique, not_null]
+      - name: user_id
+        tests:
+          - relationships:
+              to: ref('stg_users')
+              field: user_id
+              config:
+                severity: warn
+      - name: status
+        description: "From source resolution_status. Lowercased."
+        tests:
+          - accepted_values:
+              values: ['open', 'pending', 'closed']
+      - name: priority
+        tests:
+          - accepted_values:
+              values: ['low', 'medium', 'high', 'urgent']
+      - name: is_open
+        description: "True when status is open or pending."
+      - name: mentions_cancellation
+        description: "True when ticket text mentions cancel. Simple churn-risk flag."

@@ -1,0 +1,6 @@
+dbt_saas_analytics/target/
+dbt_saas_analytics/dbt_packages/
+dbt_saas_analytics/logs/
+logs/
+profiles.yml
+.env
