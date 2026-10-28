@@ -10,6 +10,7 @@ Portfolio project built to get hands-on with dbt and Snowflake. Mock B2B SaaS da
   - `fct_mrr_monthly`: monthly recurring revenue by plan, country, and month. Only active subscriptions are counted.
   - `fct_churn_by_cohort`: cancellation rate by plan and signup month.
   - `fct_support_sla`: open ticket aging against SLA targets by priority, with a flag for tickets that mention canceling.
+  - `dim_customers`: one row per customer with company, industry, country, and subscription status. Shared dimension the fact tables join to on `user_id`.
 
 ## Testing
 
@@ -35,6 +36,7 @@ dbt_saas_analytics/
 │   │   ├── stg_payments.sql
 │   │   └── stg_support_tickets.sql
 │   └── marts/                     # Gold
+│       ├── dim_customers.sql
 │       ├── fct_mrr_monthly.sql
 │       ├── fct_churn_by_cohort.sql
 │       └── fct_support_sla.sql
@@ -51,6 +53,7 @@ dbt test
 
 ## Next steps
 
+- Add `dim_date` and `dim_plan` as shared dimensions
 - Row count and freshness checks
 - Replace assumed SLA targets with business-defined ones and add resolution time
 - Power BI semantic model on top of Gold
